@@ -1,5 +1,4 @@
-# Assignment_07
-###Hive with CRUD operation.
+# Assignment_07 (Hive with CRUD operation).
 
 A new Flutter project.
 
